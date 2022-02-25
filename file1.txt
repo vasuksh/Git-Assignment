@@ -1,2 +1,2 @@
-this is username
-i live in cityname
+this is developer2
+i live in Pune
